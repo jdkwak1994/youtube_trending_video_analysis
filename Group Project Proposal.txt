@@ -1,0 +1,23 @@
+Group 6 Proposal:
+
+https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
+
+[Youtube Trending Video Statistics Data]
+
+Questions:
+
+-Find a trend with different countries and the type of the trending video if there is.
+
+-Analyze the number of views and predict future viewer values on future trending videos.
+
+-Any correlation present between trending videos and number of dislikes? how does number
+ of dislikes work with trending videos?
+
+-Are videos removed due to number of dislikes? what about the videos that have comments blocked?
+
+-Do channels with trending videos keep producing trending videos? in how often of interval?
+
+-Correlation of trending videos and number of subscribers the channel has? (we probably need
+ to use some youtube api to get these info)
+
+-Figure out the distribution of attributes for trending video:"views", "comments" and "likes".
