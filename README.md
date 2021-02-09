@@ -10,11 +10,3 @@ https://www.kaggle.com/datasnaek/youtube-new?select=USvideos.csv
 + Any correlation present between trending videos and number of dislikes? how does number of dislikes work with trending videos?
 + Are videos removed due to number of dislikes? what about the videos that have comments blocked?
 + Figure out the distribution of attributes for trending video:"views", "comments" and "likes".
-
-
-### Group Members
-* Max Izotov
-* Mark Gu
-* Samuel Okunola
-* Jeongdae (JD) Kwak
-* Sabikha Khatun
