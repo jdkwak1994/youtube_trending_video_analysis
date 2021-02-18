@@ -41,8 +41,8 @@ To see the full report and more visualizations, please see the powerpoint locate
 ---
 
 ### Team Members:
-* [Max Izotov](https://github.com/maximizo)
 * [Jeongdae (JD) Kwak](https://github.com/jdkwak1994)
+* [Max Izotov](https://github.com/maximizo)
 * [Mark Gu](https://github.com/markgu713)
 * [Samuel Okunola](https://github.com/samuelokunola326)
 * [Sabikha Khatun](https://github.com/Sabikha20)
